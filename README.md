@@ -132,8 +132,8 @@ ptw_rankings = rank_ptw()            # ranks your whole Plan to Watch list
 
 **Config** (top of notebook, edit to match your files):
 ```python
-ANIMELIST_XML     = "animelistv1.xml"   # your exported MAL XML — see export link below
-ANIME_CSV         = "mal_anime.csv"     # Kaggle dataset CSV
+ANIMELIST_XML     =  # your exported MAL XML — see export link below
+ANIME_CSV         =  # Kaggle dataset CSV
 N_CV_FOLDS        = 5
 OPTUNA_TRIALS     = 20
 EARLY_STOP_ROUNDS = 20
